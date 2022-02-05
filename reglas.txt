@@ -1,0 +1,12 @@
+->Gana el jugador que tenga la mayoria de los cuadros                              
+del tablero con fichas de su color                                               
+->Si un jugador no tiene posibilidad de jugada, pierde                               
+su turno y el oponente tiene la posibilidad de volver a jugar                      
+->Una ficha puede cambiar cualquier número de fichas en una o                      
+más filas y en cualquier dirección(Horizontal, vertical y diagonal)            
+->No puedes saltar fichas de tu propio color                                      
+->En el tablero se colocan algunos cuadros de un color especial       
+llamados COMODIN, este cuadro indica que si un jugador cambia         
+el color de ficha que está sobre él, también cambiará todos los       
+cuadros que estén a su alrededor y no solo la fila de la jugada,     
+es decir esta casilla puede cambiar hasta 8 fichas                     

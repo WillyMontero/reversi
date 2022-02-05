@@ -1,0 +1,213 @@
+# depslib dependency file v1.0
+1507578243 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyecto\reversi\main.cpp
+	"Interfaz.h"
+	"Archivos.h"
+	"Tablero.h"
+	"Jugadores.h"
+	"Juego.h"
+
+1507577823 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyecto\reversi\src\interfaz.cpp
+	"Interfaz.h"
+	<time.h>
+	<stdio.h>
+	<iostream>
+	<string.h>
+
+1506890750 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyecto\reversi\include\interfaz.h
+	<winbgim.h>
+	"Tablero.h"
+	"Jugadores.h"
+	"Juego.h"
+
+1507137287 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyecto\reversi\src\archivos.cpp
+	"Archivos.h"
+	<string>
+	"Tablero.h"
+	"Jugadores.h"
+	"Interfaz.h"
+	<iostream>
+
+1506572130 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyecto\reversi\include\archivos.h
+	<winbgim.h>
+	<cstdio>
+	"Tablero.h"
+
+1506619189 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyecto\reversi\src\juego.cpp
+	"Juego.h"
+
+1506619189 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyecto\reversi\include\juego.h
+
+1506619189 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyecto\reversi\src\jugadores.cpp
+	"Jugadores.h"
+
+1506619132 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyecto\reversi\include\jugadores.h
+	<string>
+
+1507136948 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyecto\reversi\src\tablero.cpp
+	"Tablero.h"
+	<iostream>
+	<string.h>
+
+1506889976 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyecto\reversi\include\tablero.h
+	"Juego.h"
+	<stdlib.h>
+	<time.h>
+	"Jugadores.h"
+
+1504131731 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyecto\versiones\reversi1.4\main.cpp
+	<iostream>
+	<winbgim.h>
+	"Interfaz.h"
+	"Archivos.h"
+	"Juego.h"
+	"Tablero.h"
+	<stdlib.h>
+	<time.h>
+
+1504131571 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyecto\versiones\reversi1.4\include\interfaz.h
+	<winbgim.h>
+	"Tablero.h"
+
+1503882874 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyecto\versiones\reversi1.4\include\tablero.h
+	"Juego.h"
+	<stdlib.h>
+	<time.h>
+
+1504061800 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyecto\versiones\reversi1.4\include\juego.h
+
+1503639264 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyecto\versiones\reversi1.4\include\archivos.h
+	<winbgim.h>
+	<cstdio>
+
+1503693682 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyecto\versiones\reversi1.4\src\archivos.cpp
+	"Archivos.h"
+	<iostream>
+	<string>
+
+1504131571 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyecto\versiones\reversi1.4\src\interfaz.cpp
+	"Interfaz.h"
+	<stdlib.h>
+	<time.h>
+
+1503970130 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyecto\versiones\reversi1.4\src\juego.cpp
+	"Juego.h"
+
+1503627241 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyecto\versiones\reversi1.4\src\jugadores.cpp
+	"Jugadores.h"
+
+1503639264 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyecto\versiones\reversi1.4\include\jugadores.h
+
+1504061800 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyecto\versiones\reversi1.4\src\tablero.cpp
+	"Tablero.h"
+	<iostream>
+
+1507946227 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto1\reversi\main.cpp
+	"Interfaz.h"
+	"Archivos.h"
+	"Tablero.h"
+	"Jugadores.h"
+	"Juego.h"
+
+1506890750 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto1\reversi\include\interfaz.h
+	<winbgim.h>
+	"Tablero.h"
+	"Jugadores.h"
+	"Juego.h"
+
+1507945742 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto1\reversi\include\tablero.h
+	"Juego.h"
+	<stdlib.h>
+	<time.h>
+	"Jugadores.h"
+
+1507945347 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto1\reversi\include\juego.h
+
+1506619132 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto1\reversi\include\jugadores.h
+	<string>
+
+1506572130 d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto1\reversi\include\archivos.h
+	<winbgim.h>
+	<cstdio>
+	"Tablero.h"
+
+1507137287 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto1\reversi\src\archivos.cpp
+	"Archivos.h"
+	<string>
+	"Tablero.h"
+	"Jugadores.h"
+	"Interfaz.h"
+	<iostream>
+
+1507949894 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto1\reversi\src\interfaz.cpp
+	"Interfaz.h"
+	<time.h>
+	<stdio.h>
+	<iostream>
+	<string.h>
+
+1507945347 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto1\reversi\src\juego.cpp
+	"Juego.h"
+
+1506619189 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto1\reversi\src\jugadores.cpp
+	"Jugadores.h"
+
+1507948146 source:d:\universidad\i a—o\ll semestre\progra\progra1 2017\proyectos\proyecto1\reversi\src\tablero.cpp
+	"Tablero.h"
+	<iostream>
+	<string.h>
+
+1507946227 source:d:\universidad\i a—o\ll semestre\progra\progra1\progra1 2017\proyectos\proyecto1\reversi\main.cpp
+	"Interfaz.h"
+	"Archivos.h"
+	"Tablero.h"
+	"Jugadores.h"
+	"Juego.h"
+
+1506890750 d:\universidad\i a—o\ll semestre\progra\progra1\progra1 2017\proyectos\proyecto1\reversi\include\interfaz.h
+	<winbgim.h>
+	"Tablero.h"
+	"Jugadores.h"
+	"Juego.h"
+
+1507945742 d:\universidad\i a—o\ll semestre\progra\progra1\progra1 2017\proyectos\proyecto1\reversi\include\tablero.h
+	"Juego.h"
+	<stdlib.h>
+	<time.h>
+	"Jugadores.h"
+
+1507945347 d:\universidad\i a—o\ll semestre\progra\progra1\progra1 2017\proyectos\proyecto1\reversi\include\juego.h
+
+1506619132 d:\universidad\i a—o\ll semestre\progra\progra1\progra1 2017\proyectos\proyecto1\reversi\include\jugadores.h
+	<string>
+
+1506572130 d:\universidad\i a—o\ll semestre\progra\progra1\progra1 2017\proyectos\proyecto1\reversi\include\archivos.h
+	<winbgim.h>
+	<cstdio>
+	"Tablero.h"
+
+1507137287 source:d:\universidad\i a—o\ll semestre\progra\progra1\progra1 2017\proyectos\proyecto1\reversi\src\archivos.cpp
+	"Archivos.h"
+	<string>
+	"Tablero.h"
+	"Jugadores.h"
+	"Interfaz.h"
+	<iostream>
+
+1507949894 source:d:\universidad\i a—o\ll semestre\progra\progra1\progra1 2017\proyectos\proyecto1\reversi\src\interfaz.cpp
+	"Interfaz.h"
+	<time.h>
+	<stdio.h>
+	<iostream>
+	<string.h>
+
+1507945347 source:d:\universidad\i a—o\ll semestre\progra\progra1\progra1 2017\proyectos\proyecto1\reversi\src\juego.cpp
+	"Juego.h"
+
+1506619189 source:d:\universidad\i a—o\ll semestre\progra\progra1\progra1 2017\proyectos\proyecto1\reversi\src\jugadores.cpp
+	"Jugadores.h"
+
+1507948146 source:d:\universidad\i a—o\ll semestre\progra\progra1\progra1 2017\proyectos\proyecto1\reversi\src\tablero.cpp
+	"Tablero.h"
+	<iostream>
+	<string.h>
+
